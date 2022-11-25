@@ -7,3 +7,5 @@
 O arquivo main.py é onde se encontra todo o código do programa.
 
 O arquivo Calculadora.bat é um atalho para facilitar a execução do programa.
+
+Para a execução do programa é necessário ter o Python instalado em sua máquina.
